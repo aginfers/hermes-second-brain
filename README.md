@@ -17,9 +17,7 @@ It is still a work in progress. I am building it around my daily life, not tryin
 
 ## Demo
 
-[Watch the current second-brain demo](./assets/hermes-demo.mp4)
-
-> Put the demo at `assets/hermes-demo.mp4`. If GitHub does not render the repository-hosted MP4 inline, drag the video into the GitHub README editor and replace the link above with the generated `github.com/user-attachments/...` URL.
+https://github.com/user-attachments/assets/c292004a-7017-4619-8b12-83de5f609f5c
 
 ## What the stack does
 
